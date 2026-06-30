@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+  "server": { 
+    "ip": "cookie-smp1.aternos.me",
+    "port": 52968,
     "version": "",
     "try-creative": false
   },
